@@ -83,23 +83,6 @@ classdef SolnSmokeTests < matlab.unittest.TestCase
                 testCase.verifyTrue(false,ME.message);
             end
             
-            
-            % % Log the opened figures to the test reports
-            % Figures = findall(groot,'Type','figure');
-            % Figures = flipud(Figures);
-            % if ~isempty(Figures)
-            %     for f = 1:size(Figures,1)
-            %         FigDiag = matlab.unittest.diagnostics.FigureDiagnostic(Figures(f));
-            %         log(testCase,1,FigDiag);
-            %     end
-            % end
-            % close all
-
-            % for iTestSoln = 1:size(files)
-            %     disp("Running " + files(iTestSoln).name + "...")
-            %     run(files(iTestSoln).name)
-            %     disp("Finished "+ files(iTestSoln).name)
-            % end
         end
     end
 
@@ -107,7 +90,6 @@ classdef SolnSmokeTests < matlab.unittest.TestCase
 
         function closeAllFigure(testCase)
             close all % Close all figure
-            bdclose all % Close all simulink
         end
 
         function RemovePath(testCase)
