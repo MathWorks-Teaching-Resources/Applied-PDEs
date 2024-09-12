@@ -2,9 +2,9 @@
 # <span style="color:rgb(213,80,0)">Applied Partial Differential Equations</span>
 
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXXX-PROJECTNAME) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/AppliedPDEs&project=AppliedPDEs.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXXX-PROJECTNAME) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-PDEs&project=AppliedPDEs.prj&file=README.mlx)
 
-![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FAppliedPDEs%2Frelease%2FImages%2FTestedWith.json)
+![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FApplied-PDEs%2Frelease%2FImages%2FTestedWith.json)
 
 **Curriculum Module**
 
@@ -38,7 +38,7 @@ This module assumes fluent knowledge of single variable calculus. If you would l
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/AppliedPDEs&project=AppliedPDEs.prj&file=README.mlx) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
+Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-PDEs&project=AppliedPDEs.prj&file=README.mlx) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
 
 ### **On Desktop:**
 
@@ -87,7 +87,7 @@ MATLAB is used throughout. Tools from the Symbolic Math Toolbox™ are used freq
 
 # License
 
-The license for this module is available in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/AppliedPDEs/blob/release/LICENSE.md).
+The license for this module is available in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/Applied-PDEs/blob/release/LICENSE.md).
 
 # Related Courseware Modules
 | **Courseware Module** <br>  | **Sample Content** <br>  | **Available on:** <br>   |
@@ -103,9 +103,10 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 
 # Contribute 
 
-Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/AppliedPDEs/blob/release/CONTRIBUTING.md)  page on GitHub.
+Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Applied-PDEs/blob/release/CONTRIBUTING.md)  page on GitHub.
 
 
  *©* Copyright 2024 The MathWorks™, Inc
 
-
+
+
