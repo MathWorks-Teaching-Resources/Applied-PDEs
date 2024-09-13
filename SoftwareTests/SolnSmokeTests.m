@@ -51,7 +51,7 @@ classdef SolnSmokeTests < matlab.unittest.TestCase
         % Test that all the Script files have solution versions
         function ExistSolns(testCase)
             files = dir(fullfile(testCase.RootFolder,"Scripts","*.mlx"));
-            for iTestSoln = 1:size(files)
+            for iTestSoln = 1:size(files,1)
                 SolnFileName = extractBefore(files(iTestSoln).name,".mlx") + "Soln.mlx";
                 SolnFilePath = fullfile(testCase.RootFolder,...
                     "InstructorResources"+filesep+"Solutions",SolnFileName);
