@@ -69,7 +69,7 @@ jobs:
           release: R2024b
   
       # Download the test results from artifact
-      - name: Download TestResults
+      - name: Download All TestResults
         uses: actions/download-artifact@v4
         with:
           path: SoftwareTests
