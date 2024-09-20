@@ -47,7 +47,7 @@ jobs:
       - name: Upload TestResults
         uses: actions/upload-artifact@v4
         with:
-          name: TestResults
+          name: TestResults_${{ matrix.MATLABVersion }}
           path: ./SoftwareTests/TestResults_${{ matrix.MATLABVersion }}.txt
           overwrite: true
 
