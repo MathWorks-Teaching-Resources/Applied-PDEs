@@ -70,7 +70,7 @@ MATLAB is used throughout. Tools from the Symbolic Math Toolbox™ are used freq
 | :-- | :-- | :-- |
 
 ## [**Diffusion.mlx**](Scripts/Diffusion.mlx) 
-| <img src="Images/Diffusion.gif" width="171" alt="Diffusion.gif"> <br>  | **In this script, students will...** <br> <br>-  Explore the basic theory of diffusion and the diffusion equation. <br> <br>-  Implement a finite difference solution for the diffusion equation. <br> <br>-  Visualize the results of diffusion simulations. <br>  | **Academic disciplines** <br> <br>-  Mathematics <br> <br>-  Materials science <br>   |
+| <img src="Images/Diffusion.gif" width="171" alt="Diffusion.gif"> <br>  | **In this script, students will...** <br> <br>-  Explore the basic theory of diffusion and the diffusion equation. <br> <br>-  Implement a finite difference solution for the diffusion equation. <br> <br>-  Visualize the results of diffusion simulations. <br>  | **Academic disciplines** <br> <br>-  Mathematics <br> <br>-  Materials science <br><br>- Chemical Enginering   |
 | :-- | :-- | :-- |
 
 ## [**ReactionDiffusion.mlx**](Scripts/ReactionDiffusion.mlx) 
