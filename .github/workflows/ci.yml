@@ -72,8 +72,9 @@ jobs:
       - name: Download TestResults
         uses: actions/download-artifact@v4
         with:
-          name: TestResults
-          path: ./SoftwareTests/
+          path: SoftwareTests
+          pattern: TestResults_*
+          merge-multiple: true
 
       # Create the test results badge
       - name: Run CreateBadge
