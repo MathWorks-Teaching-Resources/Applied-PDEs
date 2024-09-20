@@ -82,7 +82,7 @@ MATLAB is used throughout. Tools from the Symbolic Math Toolbox™ are used freq
 | :-: | :-- | :-- |
 
 ## [**BatteryThermalModel.mlx**](Scripts/BatteryThermalModel.mlx) 
-| <img src="Images/Battery.gif" width="171" alt="Battery.gif"> <br>  | **In this script, students will...** <br> <br>-  Explore the basic theory of the heat equation. <br> <br>-  Use cylindrical coordinates to model a battery cell. <br> <br>-  Implement a variety of initial conditions and visualize the results. <br>  | **Academic disciplines** <br> <br>-  Mathematics <br> <br>-  Electrical engineering <br>   |
+| <img src="Images/Battery.gif" width="171" alt="Battery.gif"> <br>  | **In this script, students will...** <br> <br>-  Explore the basic theory of the heat equation. <br> <br>-  Use cylindrical coordinates to model a battery cell. <br> <br>-  Implement a variety of initial conditions and visualize the results. <br>  | **Academic disciplines** <br> <br>-  Mathematics <br> <br>-  Electrical engineering <br> <br>-  Chemical engineering <br> <br>-  Mechanical engineering <br>  |
 | :-- | :-- | :-- |
 
 # License
