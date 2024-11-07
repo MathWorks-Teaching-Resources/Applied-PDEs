@@ -9,7 +9,7 @@
 **Curriculum Module**
 
 _Created with R2024a. Compatible with R2024a and later releases._
-
+ Chemical engineering
 # Information
 
 This curriculum module contains interactive [MATLAB® live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that teach various topics suitable for a first class in partial differential equations.
@@ -80,7 +80,7 @@ MATLAB is used throughout. Tools from the Symbolic Math Toolbox™ are also freq
 ## [**Diffusion.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-PDEs&project=AppliedPDEs.prj&file=Scripts/Diffusion.mlx)  
 |      |      |      |
 | :-- | :-- | :-- |
-| <img src="Images/Diffusion.gif" width="171" alt="Diffusion.gif"> <br>  | **In this script, students will...** <br> $\bullet$ Explore the basic theory of diffusion and the diffusion equation. <br> $\bullet$ Implement a finite difference solution for the diffusion equation. <br> $\bullet$ Visualize the results of diffusion simulations. <br>  | **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Materials science <br>   |
+| <img src="Images/Diffusion.gif" width="171" alt="Diffusion.gif"> <br>  | **In this script, students will...** <br> $\bullet$ Explore the basic theory of diffusion and the diffusion equation. <br> $\bullet$ Implement a finite difference solution for the diffusion equation. <br> $\bullet$ Visualize the results of diffusion simulations. <br>  | **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Materials science <br> $\bullet$ Chemical engineering <br>  |
 |      |      |       |
 
 ## [**ReactionDiffusion.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-PDEs&project=AppliedPDEs.prj&file=Scripts/ReactionDiffusion.mlx) 
@@ -98,7 +98,7 @@ MATLAB is used throughout. Tools from the Symbolic Math Toolbox™ are also freq
 ## [**BatteryThermalModel.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Applied-PDEs&project=AppliedPDEs.prj&file=Scripts/BatteryThermalModel.mlx)  
 |      |      |      |
 | :-- | :-- | :-- |
-| <img src="Images/Battery.gif" width="171" alt="Battery.gif"> <br>  | **In this script, students will...** <br> $\bullet$ Explore the basic theory of the heat equation. <br> $\bullet$ Use cylindrical coordinates to model a battery cell. <br> $\bullet$ Implement a variety of initial conditions and visualize the results. <br>  | **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Electrical engineering <br>   |
+| <img src="Images/Battery.gif" width="171" alt="Battery.gif"> <br>  | **In this script, students will...** <br> $\bullet$ Explore the basic theory of the heat equation. <br> $\bullet$ Use cylindrical coordinates to model a battery cell. <br> $\bullet$ Implement a variety of initial conditions and visualize the results. <br>  | **Academic disciplines** <br> $\bullet$ Mathematics <br> $\bullet$ Electrical engineering <br> $\bullet$ Chemical engineering <br>  |
 |      |      |       |
 
 # License
