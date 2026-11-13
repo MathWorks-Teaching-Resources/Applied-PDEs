@@ -1,3 +1,6 @@
-%  Post-run script for Diffusion.mlx
+%  Post-run script for Diffusion.m
 % ---- Pre-run commands -----
  
+
+% <matlab:ShareFeedback Share your feedback>
+

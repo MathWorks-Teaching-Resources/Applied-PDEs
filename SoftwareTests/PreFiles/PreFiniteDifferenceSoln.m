@@ -1,9 +1,12 @@
-%  Pre-run script for FiniteDifferenceSoln.mlx
+%  Pre-run script for FiniteDifferenceSoln.m
 % ---- Known Issues     -----
 KnownIssuesID = "";
 % ---- Pre-run commands -----
  
 edit = @(str)MyEdit(str);
+
+
+% <matlab:ShareFeedback Share your feedback>
 
 function MyEdit(str)
 assert(exist(str,"file"))

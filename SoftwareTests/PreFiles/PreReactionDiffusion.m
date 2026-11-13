@@ -1,5 +1,8 @@
-%  Pre-run script for ReactionDiffusion.mlx
+%  Pre-run script for ReactionDiffusion.m
 % ---- Known Issues     -----
 KnownIssuesID = "";
 % ---- Pre-run commands -----
  
+
+% <matlab:ShareFeedback Share your feedback>
+
